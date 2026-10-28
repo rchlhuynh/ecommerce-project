@@ -1,4 +1,4 @@
-import { formatMoney } from '../../../../ecommerce-project/src/utils/money'
+import { formatMoney } from '../../utils/money.ts'
 import dayjs from 'dayjs'
 
 export function OrderHeader({ order }) {
